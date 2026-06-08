@@ -1,0 +1,46 @@
+{
+  "name": "When the Alphabet Becomes Strange: Apple",
+  "artist": "Avery Lake",
+  "year": "2026",
+  "description": "Two 1/1 moving image studies in which an apple is reconstructed through binary and letters, before crumbling into silence.",
+  "external_url": "https://apple.averylakeofficial.com/",
+  "animation_url_1": "https://apple.averylakeofficial.com/assets/video/when-the-alphabet-becomes-strange-apple-1.mp4",
+  "animation_url_2": "https://apple.averylakeofficial.com/assets/video/when-the-alphabet-becomes-strange-apple-2.mp4",
+  "social_image": "https://apple.averylakeofficial.com/assets/social/when-the-alphabet-becomes-strange-apple-og.png",
+  "media": {
+    "type": "video/mp4",
+    "format": "4:5",
+    "dimensions": "1440 x 1800 px",
+    "duration": "Loops",
+    "sound": "silent loop"
+  },
+  "edition": {
+    "type": "unique",
+    "size": 2,
+    "number": "1 and 2",
+    "minting": "minted upon request"
+  },
+  "attributes": [
+    {
+      "trait_type": "Medium",
+      "value": "Generative moving image"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "Apple"
+    },
+    {
+      "trait_type": "Material systems",
+      "value": "Binary, letters, physics"
+    },
+    {
+      "trait_type": "Conceptual field",
+      "value": "Writing, memory, orality, AI"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Two 1 of 1s"
+    }
+  ],
+  "rights": "All rights reserved. Copyright 2026 The Art of Avery Lake."
+}
